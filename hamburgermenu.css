@@ -58,6 +58,13 @@ nav .mainMenu {
 
  .fa-github:hover { color: rgb(255, 123, 0);
 }
+section {
+    background-image: url(image/1BoJac.jpg.webp);
+    background-position: center;
+    background-size:cover;
+    height: 200vh;
+    width : 100%;
+}
 
 
 .nav .logo{ 
